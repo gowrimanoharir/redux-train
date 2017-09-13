@@ -6,7 +6,7 @@ export default function(){
             last: "Hola",
             age: 89,
             description: "hello",
-            thumbnail: "lorempixel.com/200/200/"
+            thumbnail: "http://lorempixel.com/200/200/"
         },
         {
             id: 2,
@@ -14,7 +14,7 @@ export default function(){
             last: "Hola",
             age: 45,
             description: "astala vista",
-            thumbnail: "lorempixel.com/200/200/"
+            thumbnail: "http://lorempixel.com/200/200/"
         },
         {
             id: 3,
@@ -22,7 +22,7 @@ export default function(){
             last: "Hola",
             age: 34,
             description: "Bye",
-            thumbnail: "lorempixel.com/200/200/"
+            thumbnail: "http://lorempixel.com/200/200/"
         },
         {
             id: 4,
@@ -30,7 +30,7 @@ export default function(){
             last: "Hola",
             age: 18,
             description: "Romaine",
-            thumbnail: "lorempixel.com/200/200/"
+            thumbnail: "http://lorempixel.com/200/200/"
         }        
     ]
 }

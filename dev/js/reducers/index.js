@@ -4,7 +4,7 @@ import ActiveUserReducer from './reducer-active-user';
 
 const allReducers = combineReducers({
     users: UserReducer,
-    activerUser: ActiveUserReducer
+    activeUser: ActiveUserReducer
 });
 
 export default allReducers;

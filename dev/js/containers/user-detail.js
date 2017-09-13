@@ -5,7 +5,7 @@ class UserDetail extends Component {
     render() {
         console.log(this.props.user);
         if(!this.props.user){
-            return (<h4>Select a User...</h4>)
+            return (<h4>Select a User...</h4>);
         }
         
         return (
@@ -20,7 +20,7 @@ class UserDetail extends Component {
     }
 }
 
-function mapStateToProps (state) {
+const mapStateToProps = (state) => {
     return {
         user: state.activeUser
     };
