@@ -5,3 +5,5 @@ const allReducers = combineReducers({
     users: UserReducer
     //movies: MovieReducer - if it exists
 });
+
+export default allReducers;
