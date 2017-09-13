@@ -23,6 +23,14 @@ export default function(){
             age: 34,
             description: "Bye",
             thumbnail: "lorempixel.com/200/200/"
-        }
+        },
+        {
+            id: 4,
+            first: "Minnie",
+            last: "Hola",
+            age: 18,
+            description: "Romaine",
+            thumbnail: "lorempixel.com/200/200/"
+        }        
     ]
 }
